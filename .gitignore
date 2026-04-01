@@ -22,3 +22,6 @@ rad.json
 TestResults.xml
 .idea/
 logs/
+/admin-web/.env.analyze
+/admin-web/.env.production
+/admin-web/dist.zip
